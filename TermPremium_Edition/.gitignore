@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+.env
+
+# Configuration
+config/api_config.py
+
+# Data
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated files
+*.png
