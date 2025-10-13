@@ -50,3 +50,6 @@ Thumbs.db
 *.xls
 # Uncomment the following line if you want to ignore PNG files
 # *.png
+# Note: Currently tracking PNGs for documentation.
+# Uncomment to ignore PNGs if they become too numerous
+# *.png
