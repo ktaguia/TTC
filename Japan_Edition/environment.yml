@@ -1,0 +1,20 @@
+name: japan_edition
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas=2.3
+  - matplotlib=3.10
+  - seaborn=0.13
+  - numpy=2.3
+  - jupyter
+  - ipykernel
+  - pandas-datareader
+  - requests
+  - scipy
+  - statsmodels
+  - lxml
+  - pip
+  - pip:
+    - fredapi
